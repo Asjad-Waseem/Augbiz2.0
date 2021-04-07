@@ -1,0 +1,52 @@
+.nav__bar {
+
+    box-shadow: 0px 3px 6px #00000014;
+    opacity: 1;
+
+}
+
+.augbiz__logo {
+
+    height: 20.504px;
+    width: 128.580px;
+    margin-top: -7px;
+
+}
+
+.nav__link {
+
+    font-size: 16px;
+    font-family: Hind;
+    font-weight: 600;
+    color: #2b2a35;
+    margin-top: 3px;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+
+    color: #2b2a35 !important;
+    font-size: 16px !important;
+    font-family: Hind !important;
+    font-weight: 600 !important;
+
+}
+
+.dropdown-menu {
+
+    box-shadow: 0px 3px 6px #D9D7D7;
+    border-radius: 7px !important;
+    opacity: 1;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: none !important;
+
+}
+
+.dropdown-item {
+
+    font-family: Hind !important;
+    font-weight: 300 !important;
+
+}
+
+

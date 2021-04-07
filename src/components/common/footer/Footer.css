@@ -1,0 +1,44 @@
+.footer__bottom {
+
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    white-space: nowrap;
+
+}
+
+.footer__font {
+
+    font-size: 16px;
+    font-family: Hind;
+    font-weight: 700;
+    letter-spacing: 0.023em;
+
+}
+
+.footer__font__1 {
+
+    font-size: 16px;
+    font-family: Hind;
+    font-weight: 600;
+    letter-spacing: 0.023em;
+
+}
+
+.font__black {
+
+    color: #2b2a35;
+
+}
+
+.font__blue {
+
+    color: #334ac0;
+
+}
+
+.margin__12 {
+
+    margin-top: -12px;
+    
+}

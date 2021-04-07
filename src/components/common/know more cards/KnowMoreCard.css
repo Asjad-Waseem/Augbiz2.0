@@ -1,0 +1,40 @@
+@media only screen and (max-width: 767px) {
+
+    .know__more__card {
+
+        margin-top: 20px;
+
+    }
+
+}
+
+.know__more__text {
+
+    font-size: 18px;
+    font-family: Hind;
+    font-weight: 300;
+    color: #2b2a35;
+    letter-spacing: 0.024em;
+
+}
+
+.know__more__link {
+
+    font-size: 14px;
+    font-family: Hind;
+    font-weight: 700;
+    color: #334ac0;
+    letter-spacing: 0.023em;
+
+}
+
+@media only screen and (max-width: 575px) { 
+
+    .margins {
+
+        margin-left: 10px !important;
+        margin-right: 10px !important;
+
+    }
+
+}

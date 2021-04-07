@@ -1,0 +1,24 @@
+.ftr {
+
+    background-color: #F6F6F6;
+
+}
+
+.ftr__heading {
+
+    font-size: 28px;
+    font-family: Hind;
+    font-weight: 700;
+    color: #2b2a35;
+    
+}
+
+@media only screen and (max-width: 362px) {
+
+    .follow__us {
+
+        margin-top: 15px;
+
+    }
+
+}
